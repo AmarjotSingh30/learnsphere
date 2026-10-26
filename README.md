@@ -20,4 +20,4 @@ A full-stack, role-based Learning Management System featuring a brutalist, high-
 
 | Student Dashboard | Classroom Module |
 | :---: | :---: |
-| <img src="./screenshots/5.png" width="400"/> | <img src="./screenshots/4.PNG" width="400"/> |
+| <img src="./screenshots/5.PNG" width="400"/> | <img src="./screenshots/4.PNG" width="400"/> |
