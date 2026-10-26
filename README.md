@@ -2,7 +2,7 @@
 
 A full-stack, role-based Learning Management System featuring a brutalist, high-end "stark studio" design language. Engineered for distraction-free deep work.
 
-![Hero Banner](./screenshots/1.png)
+![Hero Banner](./screenshots/1.PNG)
 
 ## 🚀 Core Architecture
 * **Frontend:** React.js, Tailwind CSS v4, Framer Motion, Lucide React
