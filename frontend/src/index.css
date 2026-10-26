@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  
+  /* Custom Brand Palette: Emerald / Teal */
+  --color-primary-50: #ecfdf5;
+  --color-primary-100: #d1fae5;
+  --color-primary-200: #a7f3d0;
+  --color-primary-300: #6ee7b7;
+  --color-primary-400: #34d399;
+  --color-primary-500: #10b981; 
+  --color-primary-600: #059669;
+  --color-primary-700: #047857;
+  --color-primary-800: #065f46;
+  --color-primary-900: #064e3b;
+}
+
+body {@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  
+  /* High-End Studio Palette: Obsidian & International Orange */
+  --color-primary-50: #fff0e5;
+  --color-primary-100: #ffdccc;
+  --color-primary-200: #ffbe99;
+  --color-primary-300: #ff9d66;
+  --color-primary-400: #ff7c33;
+  --color-primary-500: #ff4f00; /* Core Accent: Vibrant Tech Orange */
+  --color-primary-600: #cc3f00;
+  --color-primary-700: #992f00;
+  --color-primary-800: #662000;
+  --color-primary-900: #331000;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fafafa;
+  color: #09090b;
+}
+  font-family: 'Inter', sans-serif;
+  background-color: #f8fafc;
+  color: #0f172a;
+}
